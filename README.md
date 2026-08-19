@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
