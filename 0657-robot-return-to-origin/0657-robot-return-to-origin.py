@@ -2,14 +2,14 @@ class Solution(object):
     def judgeCircle(self, moves):
        x = 0
        y = 0
-       for i in range (len(moves)):
-          if moves[i] == "U":
+       for i in moves:
+          if i == "U":
             y += 1
-          elif moves[i] == "D":
+          elif i == "D":
             y -= 1
-          elif moves[i] == "L":
+          elif i == "L":
             x -= 1
-          elif moves[i] == "R":
+          elif i == "R":
             x += 1
        if x == 0 and y == 0:
           return True
