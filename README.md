@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
