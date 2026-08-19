@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2785-sort-vowels-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
@@ -101,4 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
