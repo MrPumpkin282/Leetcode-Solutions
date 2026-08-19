@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
