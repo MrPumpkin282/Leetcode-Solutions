@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
