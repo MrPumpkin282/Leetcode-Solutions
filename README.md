@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3894-traffic-signal-color](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3894-traffic-signal-color](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
