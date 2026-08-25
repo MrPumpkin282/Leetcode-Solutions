@@ -29,7 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
-| [1920-build-array-from-permutation](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -40,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -111,7 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0682-baseball-game) |
-| [1920-build-array-from-permutation](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -179,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3668-restore-finishing-order](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
 |  |
