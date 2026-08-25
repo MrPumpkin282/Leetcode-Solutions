@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3701-compute-alternating-sum](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
