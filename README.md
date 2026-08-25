@@ -26,12 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
-| [1672-richest-customer-wealth](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -297,8 +299,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
-## Matrix
-|  |
-| ------- |
-| [1672-richest-customer-wealth](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
