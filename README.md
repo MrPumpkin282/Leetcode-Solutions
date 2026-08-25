@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
