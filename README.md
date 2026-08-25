@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
