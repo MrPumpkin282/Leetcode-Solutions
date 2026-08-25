@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
