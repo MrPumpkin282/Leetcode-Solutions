@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
