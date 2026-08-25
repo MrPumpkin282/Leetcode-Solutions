@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,4 +286,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
