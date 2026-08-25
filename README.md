@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
 | ------- |
