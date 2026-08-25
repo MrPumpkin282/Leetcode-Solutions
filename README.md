@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
