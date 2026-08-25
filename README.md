@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Brainteaser
 |  |
