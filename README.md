@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MrPumpkin282/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
